@@ -1,0 +1,11 @@
+{
+  "name": "NekoBT",
+  "description": "NekoBT torrent source for Hayase",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "name": "NekoBT",
+      "url": "https://raw.githubusercontent.com/ReinesLithespes/NekoBT/main/NekoBT.js"
+    }
+  ]
+}
